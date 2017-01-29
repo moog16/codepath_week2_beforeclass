@@ -25,7 +25,7 @@ function anagrams(a) {
         }
       }
     } while (swapped);
-    return arr
+    return arr;
   }
 
   function sortAnagramCount(letterCount) {
